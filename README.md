@@ -1,1 +1,1 @@
-# Heexy
+# .github
