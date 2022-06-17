@@ -6,3 +6,5 @@ Heexy is a fast search engine that is open to sorce and is
 and without tracker completely free, **we are team Heexy**
 ## Whats is Heexy?
 Heexy is a new search engine that has no ads. is fast and secure and is constantly improving to be the best for users!
+
+> Website : <a href="https://heexy.org">Heexy.org</a>
