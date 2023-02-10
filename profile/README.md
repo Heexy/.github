@@ -8,3 +8,5 @@ Heexy is also very simple to use and offers a wide range of features, such as au
 If you're looking for a search engine that offers fast and relevant results, that is simple to use and that protects your privacy, then Heexy is the right choice for you. Give it a try and see how it can make your life easier.
 
 > Website : <a href="https://heexy.org">Heexy.org</a>
+> Discord : <a href="https://discord.com/invite/gZx44zvTAt">Discord</a>
+> Instagram : <a href="https://www.instagram.com/heexy_search/">Instagram</a>
