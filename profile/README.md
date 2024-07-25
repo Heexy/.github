@@ -1,5 +1,3 @@
-<img width=100% src="https://cdn.heexy.org/images/github/readme/header.svg?v=1"/>
-
 [![HEEXY](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=50&center=true&vCenter=true&width=1000&lines=Heexy+is+a+fast+search+engine%3BHeexy+is+a+simple+search+engine%3BHeexy+doesn%27t+track+users%3BHeexy+has+no+ads%3BHeexy+doesn%27t+sell+your+data%3BMade+with%E2%9D%A4%EF%B8%8Fin+Czech+%26+Slovakia)](https://discord.com/invite/uWUQKsm2HU)
 #
 **Heexy** is an exceptional search engine that stands out above all for its efficiency and ease of use. When you use Heexy, you can count on **fast and accurate search results** that are relevant to your needs. Plus, **Heexy is secure and private**, which means your **privacy is always protected.**
@@ -25,5 +23,3 @@
 # 
 
 <p align="center">Made with ❤️ in Czech & Slovakia</p>
-
-<img width=100% src="https://cdn.heexy.org/images/github/readme/footer.svg"/>
