@@ -1,6 +1,6 @@
 ![Heexy](https://github.com/Heexy/.github/blob/main/profile/homepage.png?raw=true)
 
-Heexy is a fast, secure, and minimalist search engine focused on **privacy**, **speed**, and **quality results**.**No ads**, **no tracking** — just clean and efficient searching.
+Heexy is a fast, secure, and minimalist search engine focused on **privacy**, **speed**, and **quality results**. **No ads**, **no tracking** — just clean and efficient searching.
 
 # ✨ Why choose Heexy?
 - ⚡ [Fast and Lightweight](https://docs.heexy.org/services/search/comparison)  
